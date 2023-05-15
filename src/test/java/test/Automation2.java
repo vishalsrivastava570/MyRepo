@@ -15,6 +15,7 @@ public class Automation2 {
 	
 	@Test
 	public void dell() {
+		//Code for dell
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.dell.com/en-in");
