@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-14T12:05:59 IST" name="Default suite" finished-at="2023-05-14T12:06:04 IST" duration-ms="4321">
+  <suite started-at="2023-05-15T15:17:24 IST" name="Default suite" finished-at="2023-05-15T15:17:25 IST" duration-ms="88">
     <groups>
     </groups>
-    <test started-at="2023-05-14T12:05:59 IST" name="Default test" finished-at="2023-05-14T12:06:04 IST" duration-ms="4321">
-      <class name="test.Automation2">
-        <test-method signature="dell()[pri:0, instance:test.Automation2@550dbc7a]" started-at="2023-05-14T12:06:00 IST" name="dell" finished-at="2023-05-14T12:06:04 IST" duration-ms="4243" status="PASS">
+    <test started-at="2023-05-15T15:17:24 IST" name="Default test" finished-at="2023-05-15T15:17:25 IST" duration-ms="88">
+      <class name="test.Automation3">
+        <test-method signature="m3()[pri:0, instance:test.Automation3@729d991e]" started-at="2023-05-15T15:17:25 IST" name="m3" finished-at="2023-05-15T15:17:25 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dell -->
-      </class> <!-- test.Automation2 -->
+        </test-method> <!-- m3 -->
+      </class> <!-- test.Automation3 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
