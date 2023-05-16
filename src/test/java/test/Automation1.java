@@ -20,6 +20,9 @@ public class Automation1 {
 		WebElement fbLogo = driver.findElement(By.xpath("//img[@class='fb_logo _8ilh img']"));
 		Assert.assertTrue(fbLogo.isDisplayed());
 		driver.close();
+		System.out.println("rahulsssss");
+		System.out.println("rahul change");
+		
 		
 	
 		
